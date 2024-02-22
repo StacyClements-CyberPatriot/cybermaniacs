@@ -14,7 +14,7 @@ Instructional Activities:
 1.	Briefly talk about git and why it’s used.
 2.	Introduce GitHub as user-friendly web-based platform which uses git.  
 [YouTube video “What is GitHub?”](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-3.	[Walk through creating GitHub account]. (https://youtu.be/fbbKydQJCf8)
+3.	[Walk through creating GitHub account](https://youtu.be/fbbKydQJCf8)
 4.	Have cadets go through tutorial on creating a branch, making and committing changes, and merging pull requests.
-(https://docs.github.com/en/get-started/start-your-journey/hello-world)
+[https://docs.github.com/en/get-started/start-your-journey/hello-world](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 5.	Demonstrate “live” example of proposing change to public repo.
