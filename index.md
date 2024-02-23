@@ -5,6 +5,9 @@ ___________
 
 Type your name and something about yourself.
 
+My name is Stacy and I like to make my own cheese.
+=======
+
 My name is Alex Kern and I love to listen to music.
 =======
 
@@ -22,5 +25,6 @@ Caleb is a GitHubidiot
 =======
 
 My name is Hank I like Food :) 
+
 
 
